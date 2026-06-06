@@ -1,0 +1,48 @@
+Cmp: plan5_en_tokenized.txt vs plan7_en_tokenized.txt
+num sent of 1doc: 1305
+num sent of 2doc: 1621
+
+[LCS] : 2
+Example:
+  Example 1 (شباهت=0.867)
+    responsibility implementing ruling lies highest official executive body or authorized officials relevant financial managers
+    responsibility implementing ruling lies highest official executive branch or authorized officials relevant financial managers
+  Example 2 (شباهت=0.714)
+    executive regulations paragraph shall approved council ministers upon proposal deputy cooperation central bank ministry economic affairs finance
+    executive regulations clause shall prepared upon proposal ministry petroleum cooperation ministry economic affairs finance central bank organization shall approved council ministers
+
+[Top 10] With high similarity:
+Rank 1 (Similar=0.8667)
+  responsibility implementing ruling lies highest official executive body or authorized officials relevant financial managers
+  responsibility implementing ruling lies highest official executive branch or authorized officials relevant financial managers
+Rank 2 (Similar=0.7368)
+  executive regulations paragraph shall approved council ministers upon proposal deputy cooperation central bank ministry economic affairs finance
+  executive regulations paragraph shall prepared organization cooperation ministry economic affairs finance central bank shall approved council ministers
+Rank 3 (Similar=0.7143)
+  executive regulations paragraph shall approved council ministers upon proposal deputy cooperation central bank ministry economic affairs finance
+  executive regulations clause shall prepared upon proposal ministry petroleum cooperation ministry economic affairs finance central bank organization shall approved council ministers
+Rank 4 (Similar=0.6140)
+  cost management services capital asset acquisition plans islamic revolution housing foundation executive organization government public buildings facilities transportation infrastructure construction development company iranian electricity development organization iranian water power resources development company sports venues development maintenance company specialized parent company national rail transportation affiliated ministry interior jihad nasr institute shall determined deputy up maximum two half percent
+  article 23 cost management services acquisition capital assets national transportation infrastructure construction development company islamic revolution housing foundation executive organization governmental public buildings facilities iranian water power resources development company specialized parent company development equipping national health centers medical equipment national sports venues development maintenance company shall determined up two half percent
+Rank 5 (Similar=0.5625)
+  executive regulations clause shall prepared ministry commerce deputy minister approved council ministers
+  note executive regulations clause shall prepared organization cooperation ministry petroleum shall approved council ministers
+Rank 6 (Similar=0.5600)
+  executive regulations article shall prepared ministry education training within maximum two months from approval program shall approved council ministers
+  executive regulations paragraph shall prepared proposal ministry education training within maximum three months from entry into force law shall approved council ministers
+Rank 7 (Similar=0.5556)
+  executive regulations article shall approved council ministers
+  executive regulations part will approved council ministers
+Rank 8 (Similar=0.5500)
+  executive regulations paragraph shall approved council ministers upon proposal deputy cooperation central bank ministry economic affairs finance
+  executive regulations clause shall prepared ministry economic affairs finance cooperation organization shall approved council ministers
+Rank 9 (Similar=0.5417)
+  executive regulations article shall prepared ministry education training within maximum two months from approval program shall approved council ministers
+  executive regulations clause shall prepared ministry education within maximum three months from entry into force law shall approved council ministers
+Rank 10 (Similar=0.5385)
+  executive regulations article shall approved council ministers upon joint proposal ministry economic affairs finance deputy minister central bank islamic republic iran
+  executive regulations clause shall prepared upon proposal ministry petroleum cooperation ministry economic affairs finance central bank organization shall approved council ministers
+
+=== overall similarity ===
+ percent of similar sent  : 0.15%
+nonsimilar

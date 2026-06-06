@@ -1,0 +1,57 @@
+Cmp: plan5_en_tokenized.txt vs plan6_en_tokenized.txt
+num sent of 1doc: 1305
+num sent of 2doc: 952
+
+[LCS] : 18
+Example:
+  Example 1 (شباهت=0.667)
+    mahmoud ahmadinejad honorable president islamic republic iran referring letter no
+    hassan rouhani honorable president islamic republic iran referring letter no
+  Example 2 (شباهت=0.875)
+    e- employing individuals under fixed-term or hourly employment contracts perform organizational duties permitted only within limits set forth civil service management law
+    b- employing individuals under fixed-term or hourly employment contracts perform organizational duties permitted only within limits set forth civil service management law 2007/7/8
+  Example 3 (شباهت=1.000)
+    renewal previous contracts permitted
+    renewal previous contracts permitted
+  Example 4 (شباهت=0.712)
+    d- order increase promote scientific technological innovative capacity oil industry allocate one percent 1% annual development plan credits subsidiaries during program create capacity potential absorb develop priority oil gas petrochemical technologies apply them related industries upgrade existing technologies localize them reduce energy intensity while exchanging agreements deputy minister submit performance report clause annually education research commission islamic consultative assembly
+    e- order increase promote scientific technological innovative capacity oil industry allocate one percent 1% annual development plan credits subsidiaries during implementation program law create absorption capacity develop priority technologies oil gas petrochemicals renewable energies apply them related industries promote existing technologies localize them reduce energy consumption intensity while exchanging agreements organization submit performance report clause annually energy education research technology commissions islamic consultative assembly
+  Example 5 (شباهت=0.674)
+    article 130- order increase recovery rate country's reservoirs during program one percent 1% ministry petroleum required prepare comprehensive plan protection increase hydrocarbon reservoirs during first year program prioritizing reservoirs separating onshore offshore areas take necessary measures its proper implementation
+    also order increase recovery rate country's reservoirs during implementation program law one percent 1% through ministry oil during first year implementation law prepare comprehensive protection plan increase extraction hydrocarbon reservoirs prioritizing reservoirs separating onshore offshore areas after its approval legal authorities take necessary measures
+
+[Top 10] With high similarity:
+Rank 1 (Similar=1.0000)
+  d- all executive agencies educational centers hospitals medical centers sports complexes welfare recreational complexes commercial complexes whether governmental or non-governmental required construct or allocate maintain sufficient suitable space mosque or prayer room
+  d- all executive agencies educational centers hospitals medical centers sports complexes welfare recreational complexes commercial complexes whether governmental or non-governmental required construct or allocate maintain sufficient suitable space mosque or prayer room
+Rank 2 (Similar=1.0000)
+  renewal previous contracts permitted
+  renewal previous contracts permitted
+Rank 3 (Similar=1.0000)
+  note each expert member monetary credit council replaced every two years
+  note each expert member monetary credit council replaced every two years
+Rank 4 (Similar=1.0000)
+  speaker islamic consultative assembly ali larijani
+  speaker islamic consultative assembly ali larijani
+Rank 5 (Similar=0.9565)
+  b- maintaining preserving orbital positions belonging islamic republic iran anticipating necessary measures create infrastructure implement national satellite projects order preserve aforementioned points
+  b- maintaining preserving orbital positions belonging islamic republic iran anticipating necessary measures create infrastructure implement national satellite plans projects order preserve aforementioned points
+Rank 6 (Similar=0.9524)
+  c- national forests rangelands watershed management organization municipalities required construct or allocate sufficient suitable space mosque or prayer room national parks urban gardens
+  c- national forests rangelands watershed management organization municipalities required construct or allocate sufficient suitable space mosque or prayer room national parks urban parks
+Rank 7 (Similar=0.9474)
+  c- preparing implementing master plan villages located within boundaries metropolitan cities approach controlling areas aforementioned villages within their natural growth limits
+  c- preparing implementing master plan villages located within boundaries cities approach controlling areas aforementioned villages within their natural growth limits
+Rank 8 (Similar=0.9375)
+  order conduct necessary studies reduce earthquake risk 1- network accelerometer seismograph stations earthquake precursors should developed
+  c- order conduct necessary studies reduce earthquake risk 1- network accelerometer seismograph stations earthquake precursors should developed
+Rank 9 (Similar=0.9200)
+  k- it prohibited create impose any financial burden excess figures stated annual budget laws all executive bodies including government agencies various cases such as guaranteed purchases costs associated purchases compensation losses price differences market regulation input subsidies others fulfillment specific obligations basic goods export bonuses like where public funds used
+  d- it prohibited create impose any financial burden excess figures stated annual budget laws executive agencies including government agencies various cases such as guaranteed purchases costs associated purchases compensation losses price differences market regulation input subsidies others fulfillment specific obligations basic goods export bonuses like where public funds used
+Rank 10 (Similar=0.9167)
+  note chairmanship council will held governor central bank islamic republic iran
+  note 1- chairmanship council will held governor central bank islamic republic iran
+
+=== overall similarity ===
+ percent of similar sent  : 1.89%
+nonsimilar

@@ -1,0 +1,57 @@
+Cmp: plan6_en_tokenized.txt vs plan7_en_tokenized.txt
+num sent of 1doc: 952
+num sent of 2doc: 1621
+
+[LCS] : 12
+Example:
+  Example 1 (شباهت=0.867)
+    responsibility implementing ruling lies highest official executive agency or authorized officials relevant financial managers
+    responsibility implementing ruling lies highest official executive branch or authorized officials relevant financial managers
+  Example 2 (شباهت=0.619)
+    provisions parts paragraph article shall govern during implementation program paragraph article law addition certain articles law regulation part government financial regulations
+    ruling governs article 21 law addition certain articles law regulation part government financial regulations during implementation program
+  Example 3 (شباهت=0.667)
+    share iranian airports air navigation company ports maritime organization domestic private sector will at least fifty-one percent 51%
+    share ports maritime organization domestic private sector at least fifty-one percent 51%
+  Example 4 (شباهت=0.645)
+    e- all doctors paramedical staff institutions centers providing services medicines health products country including government non-governmental private charitable public institutions required comply government-approved tariffs policies approved ministry health treatment medical education
+    e- all doctors paramedics institutions centers providing services medicines health products country including government public non-government private charitable required comply government-approved tariffs
+  Example 5 (شباهت=0.840)
+    c- official drug list iran compiled published ministry health treatment medical education based country's national drug system at most once every three months
+    e- official drug list iran compiled published ministry health treatment medical education based country's national drug system generic plan at most once every three months
+
+[Top 10] With high similarity:
+Rank 1 (Similar=0.9091)
+  during implementation law radiation protection law approved 1/20/1368 shall considered valid
+  during implementation program radiation protection law approved 1/20/1368 shall considered valid
+Rank 2 (Similar=0.8667)
+  responsibility implementing ruling lies highest official executive agency or authorized officials relevant financial managers
+  responsibility implementing ruling lies highest official executive branch or authorized officials relevant financial managers
+Rank 3 (Similar=0.8400)
+  c- official drug list iran compiled published ministry health treatment medical education based country's national drug system at most once every three months
+  e- official drug list iran compiled published ministry health treatment medical education based country's national drug system generic plan at most once every three months
+Rank 4 (Similar=0.8333)
+  note credit only spent provinces
+  note 1- credit only spent provinces
+Rank 5 (Similar=0.8056)
+  prescribing drugs outside aforementioned list considered violation violator considering severity weakness committed act its frequency repetition sentenced penalties stipulated note article 28 law organization medical system islamic republic iran approved 16/8/2004
+  prescribing drugs outside aforementioned list considered violation violator considering severity act committed its frequency repetition will sentenced penalties stipulated note article 28 law organization medical system islamic republic iran approved 15/01/1383 as case may
+Rank 6 (Similar=0.7692)
+  note executive regulations paragraph shall prepared organization within three months after entry into force law cooperation ministries economic affairs finance education shall approved council ministers
+  executive regulations paragraph shall prepared organization within three months entry into force law cooperation ministry economic affairs finance ministry interior shall approved council ministers
+Rank 7 (Similar=0.7667)
+  3- creating infrastructure needed tourism areas such as roads welfare accommodation services utilizing private sector's capacity investment providing low-cost facilities other support measures form annual budget
+  3- infrastructure required tourism areas such as roads welfare accommodation services will created utilizing private sector's capacity investment providing low-cost facilities other support measures form annual budgets
+Rank 8 (Similar=0.7568)
+  section 12 general education higher education science technology ماده۶۳ a- government obliged take following measures bring about change education system 1- implementing fundamental transformation education document such way all actions ministry education carried out based document no action taken contrary law document
+  e- government obliged take following measures bring about change education system 1- implementing fundamental transformation education document such way all actions ministry education carried out based document no action taken contrary law document
+Rank 9 (Similar=0.7407)
+  note executive regulations paragraph shall prepared organization within three months after entry into force law cooperation ministries economic affairs finance education shall approved council ministers
+  executive regulations clause shall prepared organization cooperation ministries petroleum energy economic affairs finance within three months entry into force law shall approved council ministers
+Rank 10 (Similar=0.7333)
+  note executive regulations clause shall prepared ministries energy petroleum organization shall approved council ministers
+  note executive regulations clause shall prepared organization cooperation ministry petroleum shall approved council ministers
+
+=== overall similarity ===
+ percent of similar sent  : 1.26%
+nonsimilar
